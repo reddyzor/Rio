@@ -1,0 +1,3 @@
+API_TOKEN = "0"
+YOUR_ADMIN_USER_ID = 0
+DATABASE_NAME = "data.db"
